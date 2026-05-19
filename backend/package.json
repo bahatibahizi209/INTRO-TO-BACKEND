@@ -1,0 +1,21 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "learning backend",
+  "homepage": "https://github.com/bahatibahizi209/INTRO-TO-BACKEND#readme",
+  "bugs": {
+    "url": "https://github.com/bahatibahizi209/INTRO-TO-BACKEND/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bahatibahizi209/INTRO-TO-BACKEND.git"
+  },
+  "license": "ISC",
+  "author": "bahizi",
+  "type":"module",
+  "main": "index.js",
+ 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
